@@ -1,0 +1,1 @@
+A simple script to tidy up my media folder for XBMC scraping. Requires Python 2.7+. Optionally needs an API key from thetvdb.com to get program information.
