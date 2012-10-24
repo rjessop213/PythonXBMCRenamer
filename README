@@ -1,1 +1,6 @@
 A simple script to tidy up my media folder for XBMC scraping. Requires Python 2.7+. Optionally needs an API key from thetvdb.com to get program information.
+
+theTVDB.com integration needs an API key in order to work. Instructions on obtaining one can be found here: http://thetvdb.com/wiki/index.php?title=Programmers_API
+Write the key into a file called thetvdb.com in the project directory. It'll be ignored by Git.
+
+Please contribute information and artwork to thetvdb.com if you can.

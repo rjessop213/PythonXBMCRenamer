@@ -161,3 +161,10 @@ pip-log.txt
 
 # Mac crap
 .DS_Store
+
+#GVim temp and swap files
+*~
+*.swp
+
+# TheTVDB.Com key file - Should be provided per user
+thetvdb.com
